@@ -1,0 +1,70 @@
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.exe
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.deps.json
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.runtimeconfig.json
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.dll
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfoInputs.cache
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfo.cs
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.csproj.CoreCompileInputs.cache
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.dll
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\refint\02-EF-Linq.dll
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.genruntimeconfig.cache
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\ref\02-EF-Linq.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.exe
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.deps.json
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.runtimeconfig.json
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfoInputs.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfo.cs
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.csproj.CoreCompileInputs.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\refint\02-EF-Linq.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.genruntimeconfig.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\ref\02-EF-Linq.dll
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.exe
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.deps.json
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.runtimeconfig.json
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.dll
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfo.cs
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.dll
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\refint\02-EF-Linq.dll
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.genruntimeconfig.cache
+C:\Users\Said\Desktop\YZL-5101-EF\02-EF-Linq\obj\Debug\net8.0\ref\02-EF-Linq.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.exe
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.deps.json
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.runtimeconfig.json
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfo.cs
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\refint\02-EF-Linq.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.genruntimeconfig.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\ref\02-EF-Linq.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.exe
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.deps.json
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.runtimeconfig.json
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\bin\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.AssemblyInfo.cs
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\refint\02-EF-Linq.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.pdb
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\02-EF-Linq.genruntimeconfig.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\02-EF-Linq\obj\Debug\net8.0\ref\02-EF-Linq.dll

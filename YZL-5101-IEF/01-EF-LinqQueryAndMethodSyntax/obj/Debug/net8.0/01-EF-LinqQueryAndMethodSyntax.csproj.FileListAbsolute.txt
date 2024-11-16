@@ -1,0 +1,98 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\refint\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\ref\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.exe
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.deps.json
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.runtimeconfig.json
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfo.cs
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\refint\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.genruntimeconfig.cache
+C:\Users\EDA.A\Desktop\YZL-5101-EF\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\ref\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.exe
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.deps.json
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.runtimeconfig.json
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfo.cs
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\refint\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.genruntimeconfig.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\ref\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.exe
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.deps.json
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.runtimeconfig.json
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfo.cs
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\refint\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.genruntimeconfig.cache
+C:\Users\EDA.A\source\repos\YZL-5101\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\ref\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.exe
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.deps.json
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.runtimeconfig.json
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfo.cs
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\refint\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.genruntimeconfig.cache
+C:\Users\Said\Desktop\YZL-5101-EF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\ref\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.exe
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.deps.json
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.runtimeconfig.json
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfo.cs
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\refint\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.genruntimeconfig.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\ref\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.exe
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.deps.json
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.runtimeconfig.json
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\bin\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.AssemblyInfo.cs
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\refint\01-EF-LinqQueryAndMethodSyntax.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.pdb
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\01-EF-LinqQueryAndMethodSyntax.genruntimeconfig.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\01-EF-LinqQueryAndMethodSyntax\obj\Debug\net8.0\ref\01-EF-LinqQueryAndMethodSyntax.dll

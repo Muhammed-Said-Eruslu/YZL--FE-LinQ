@@ -1,0 +1,126 @@
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.AssemblyInfo.cs
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.exe
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.deps.json
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.runtimeconfig.json
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.pdb
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.csproj.AssemblyReference.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-Da.3FDF4E63.Up2Date
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\refint\06-EF-DataAnnotationFluentAPI.dll
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.pdb
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.genruntimeconfig.cache
+C:\Users\Bilge Adam\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\ref\06-EF-DataAnnotationFluentAPI.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.exe
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.deps.json
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.runtimeconfig.json
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\06-EF-DataAnnotationFluentAPI.pdb
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.csproj.AssemblyReference.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.AssemblyInfo.cs
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-Da.3FDF4E63.Up2Date
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\refint\06-EF-DataAnnotationFluentAPI.dll
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.pdb
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\06-EF-DataAnnotationFluentAPI.genruntimeconfig.cache
+C:\Users\Said\Desktop\YZL-5101-IEF\06-EF-DataAnnotationFluentAPI\obj\Debug\net8.0\ref\06-EF-DataAnnotationFluentAPI.dll
